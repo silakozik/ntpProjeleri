@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\labOdev4\labOdev4\bin\Debug\labOdev4.exe.config
+C:\Users\SILA\source\repos\labOdev4\labOdev4\bin\Debug\labOdev4.exe
+C:\Users\SILA\source\repos\labOdev4\labOdev4\bin\Debug\labOdev4.pdb
+C:\Users\SILA\source\repos\labOdev4\labOdev4\obj\Debug\labOdev4.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\labOdev4\labOdev4\obj\Debug\labOdev4.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\labOdev4\labOdev4\obj\Debug\labOdev4.exe
+C:\Users\SILA\source\repos\labOdev4\labOdev4\obj\Debug\labOdev4.pdb
